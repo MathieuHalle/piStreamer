@@ -6,6 +6,8 @@ It will start streaming to the defined twitch channel when you power it. It will
 
 This project is built with a Raspberry Pi 4 Model B and a USB webcam. It could also work with the Raspberry Pi Camera Module.
 
+Pull Requests are always very welcome.
+
 ---
 
 ## Setup
