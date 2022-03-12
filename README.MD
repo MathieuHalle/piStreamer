@@ -1,4 +1,4 @@
-# Raspberry Pi code Automatic Twitch Streaming
+# Raspberry Pi Automatic Twitch Streaming
 
 This [project](https://www.cacouletu.com) is a camera placed on a three in our Sugar Shack that displays sap dripping in a collection bucket. We keep the feed running 24/7 for as long as the sugar season continues(2 to 4 weeks).
 
